@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm chaimae</h1>
 - 🌱 I’m currently learning at 1337  school
 
-[![<ckhater>'s 42 stats](https://badge.mediaplus.ma/<black>/<ckhater>)]
-
 - 📫 How to reach me in Discord: **bingawa**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
