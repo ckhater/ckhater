@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm chaimae</h1>
 - 🌱 I’m currently learning at 1337  school
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/ckhater" alt="ckhater's 42 stats" /></a>
+[![<ckhater>'s 42 stats](https://badge.mediaplus.ma/<black>/<ckhater>)](https://github.com/oakoudad/badge42)
 
 - 📫 How to reach me in Discord: **bingawa**
 <h3 align="left">Connect with me:</h3>
