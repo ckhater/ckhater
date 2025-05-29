@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm chaimae</h1>
-- 🌱 I’m currently learning at 1337  school
+<h1 align="center">Hello 👋, I'm chaimae</h1>
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/ckhater" alt="ckhater's 42 stats" /></a>
+
 
 <!---
 ckhater/ckhater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
