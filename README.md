@@ -8,9 +8,9 @@
 
 
 <h2 align="center">LeetCode stats</h2>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/chaimaekhater?theme=catppuccinMocha&font=Cambo&ext=activity)
-
+<div align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/chaimaekhater?theme=catppuccinMocha&font=Cambo&ext=activity)
+</div>
 <!---
 ckhater/ckhater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
