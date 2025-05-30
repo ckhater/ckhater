@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm chaimae</h1>
+<h1 align="center">Hello 👋, I'm Chaimae, a student at 1337 school</h1>
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
@@ -7,10 +7,13 @@
 </div>
 
 
-<h2 align="center">LeetCode stats</h2>
-<center>
-  <img src="https://leetcard.jacoblin.cool/chaimaekhater?theme=catppuccinMocha&font=Cambo&ext=activity" alt="LeetCode Stats" />
-</center>
+<h1 align="center">LeetCode stats</h1>
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/chaimaekhater?theme=catppuccinMocha&font=Cambo&ext=activity" />
+</div>
+
+
+
 
 <!---
 ckhater/ckhater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
