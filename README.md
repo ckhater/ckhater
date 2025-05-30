@@ -9,7 +9,7 @@
 
 <h2 align="center">LeetCode stats</h2>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/chaimaekhater?theme=nord&font=&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/chaimaekhater?theme=catppuccinMocha&font=Cambo&ext=activity)
 
 <!---
 ckhater/ckhater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
