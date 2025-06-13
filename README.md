@@ -7,10 +7,11 @@
 </div>
 
 
+<!---
 <h1 align="center">LeetCode stats</h1>
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/chaimaekhater?theme=catppuccinMocha&font=Cambo&ext=activity" />
-</div>
+</div>--->
 
 
 
