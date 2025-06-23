@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Chaimae, a student at 1337 school</h1>
 
-<div align="center">
+<!---<div align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/starryblue/ckhater" alt="ckhater's 42 stats" />
   </a>
-</div>
+</div>--->
 
 
 <!---
