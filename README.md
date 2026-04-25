@@ -1,22 +1,13 @@
-<h1 align="center">Hello 👋, I'm Chaimae, a student at 1337 school</h1>
-
-<!---<div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/starryblue/ckhater" alt="ckhater's 42 stats" />
-  </a>
-</div>--->
-
-
-<!---
-<h1 align="center">LeetCode stats</h1>
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/chaimaekhater?theme=catppuccinMocha&font=Cambo&ext=activity" />
-</div>--->
+  <h1>ℍ𝕖𝕝𝕝𝕠 𝕥𝕙𝕖𝕣𝕖 👋 𝕀❜𝕞 𝕔𝕙𝕒𝕚𝕞𝕒𝕖 𝕜𝕙𝕒𝕥𝕖𝕣</h1>
+</div>
+I am a Software Engineering Student at 1337 (UM6P). My education is project-based, peer-to-peer, and 100% autonomous.
 
+ - 🎓 Junior Developer Certification (42 Common Core)
+ - 🌐 Focused on Fullstack Web Development
+ - ⚙️ Strong foundations in System Programming (C/C++)
+ - 🐳 DevOps ready with Docker and Linux
 
-
-
-<!---
-ckhater/ckhater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>⁉️ How to reach me ⁉️</b>
+- email: chaymaekhater@gmail.com
+- LinkedIn: [chaimae-khater](https://www.linkedin.com/in/chaimae-khater-5890931b3/)
