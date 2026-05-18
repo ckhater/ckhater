@@ -9,5 +9,5 @@ I am a Software Engineering Student at 1337 (UM6P). My education is project-base
  - 🐳 DevOps ready with Docker and Linux
 
 <b>⁉️ How to reach me ⁉️</b>
-- email: chaymaekhater@gmail.com
+- email: chaymaekhater13@gmail.com
 - LinkedIn: [chaimae-khater](https://www.linkedin.com/in/chaimae-khater-5890931b3/)
